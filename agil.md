@@ -3,9 +3,16 @@ theme: uncover
 _class: lead
 paginate: true
 backgroundColor: #c4e0ea
-backgroundImage: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1363%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%26quot%3b%23SvgjsRadialGradient1364%26quot%3b)'%3e%3c/rect%3e%3cpath d='M1440 0L1084.3 0L1440 28.89z' fill='rgba(255%2c 255%2c 255%2c .1)'%3e%3c/path%3e%3cpath d='M1084.3 0L1440 28.89L1440 170.31L874.14 0z' fill='rgba(255%2c 255%2c 255%2c .075)'%3e%3c/path%3e%3cpath d='M874.14 0L1440 170.31L1440 280.94L593.99 0z' fill='rgba(255%2c 255%2c 255%2c .05)'%3e%3c/path%3e%3cpath d='M593.99 0L1440 280.94L1440 295.91L257.93 0z' fill='rgba(255%2c 255%2c 255%2c .025)'%3e%3c/path%3e%3cpath d='M0 560L510.87 560L0 536.15z' fill='rgba(0%2c 0%2c 0%2c .1)'%3e%3c/path%3e%3cpath d='M0 536.15L510.87 560L995.56 560L0 379.74z' fill='rgba(0%2c 0%2c 0%2c .075)'%3e%3c/path%3e%3cpath d='M0 379.74L995.56 560L1054.19 560L0 144.44z' fill='rgba(0%2c 0%2c 0%2c .05)'%3e%3c/path%3e%3cpath d='M0 144.44L1054.19 560L1055.2 560L0 88.09z' fill='rgba(0%2c 0%2c 0%2c .025)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1363'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cradialGradient cx='100%25' cy='100%25' r='1545.06' gradientUnits='userSpaceOnUse' id='SvgjsRadialGradient1364'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(4%2c 3%2c 136%2c 1)' offset='1'%3e%3c/stop%3e%3c/radialGradient%3e%3c/defs%3e%3c/svg%3e")
+backgroundImage: url("data:image/svg+xml, %3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1445%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%26quot%3b%23SvgjsRadialGradient1446%26quot%3b)'%3e%3c/rect%3e%3cpath d='M1440 0L768.92 0L1440 11.82z' fill='rgba(255%2c 255%2c 255%2c .1)'%3e%3c/path%3e%3cpath d='M768.92 0L1440 11.82L1440 269.23L437.37999999999994 0z' fill='rgba(255%2c 255%2c 255%2c .075)'%3e%3c/path%3e%3cpath d='M437.3799999999999 0L1440 269.23L1440 359.07000000000005L330.28999999999985 0z' fill='rgba(255%2c 255%2c 255%2c .05)'%3e%3c/path%3e%3cpath d='M330.28999999999996 0L1440 359.07000000000005L1440 413.56000000000006L168.28999999999996 0z' fill='rgba(255%2c 255%2c 255%2c .025)'%3e%3c/path%3e%3cpath d='M0 560L407.27 560L0 546.65z' fill='rgba(0%2c 0%2c 0%2c .1)'%3e%3c/path%3e%3cpath d='M0 546.65L407.27 560L878.23 560L0 534.7099999999999z' fill='rgba(0%2c 0%2c 0%2c .075)'%3e%3c/path%3e%3cpath d='M0 534.71L878.23 560L1197.44 560L0 337.23z' fill='rgba(0%2c 0%2c 0%2c .05)'%3e%3c/path%3e%3cpath d='M0 337.23L1197.44 560L1252.19 560L0 133.84000000000003z' fill='rgba(0%2c 0%2c 0%2c .025)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1445'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cradialGradient cx='100%25' cy='100%25' r='1545.06' gradientUnits='userSpaceOnUse' id='SvgjsRadialGradient1446'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(13%2c 1%2c 64%2c 1)' offset='1'%3e%3c/stop%3e%3c/radialGradient%3e%3c/defs%3e%3c/svg%3e")
 color: #fff
 footer: Desarrollo agil
+
+style: |
+
+    section::after {
+
+        color: white; 
+    }
 
 ---
 
@@ -41,7 +48,9 @@ Calificación a nivel de grupo y compromiso entre los miembros del clan.
 
 ---
 
-Responsabilidades: trabajar al mismo nivel, asistencia regular, colaboración, respeto y enfoque en el aprendizaje.
+#### Responsabilidades
+
+Trabajar al mismo nivel, asistencia regular, colaboración, respeto y enfoque en el aprendizaje.
 
 ---
 
@@ -127,7 +136,6 @@ El clan decidirá qué debe dejar de hacer.
 
 Tanto el clan (colectivo) como cada miembro (individual) deberá responder a 4 preguntas:
 
-
 * ¿Qué fue bien?
 * ¿Qué se puede mejorar?
 * ¿Qué no se debe hacer más?
@@ -135,17 +143,104 @@ Tanto el clan (colectivo) como cada miembro (individual) deberá responder a 4 p
 
 ---
 
-# Kanban
-
-
+## Kanban
 
 ---
 
-# Trello
+### ¿Qué es Kanban?
 
-* E-mail mij op noah.beij@code-cafe.nl
-* Join de CodeCafé-community op Discord!
-
-![bg right 80%](https://assets.nbeij.nl/marp/assets/codecafe.png)
+Es una forma de ayudar a los equipos a encontrar un equilibrio entre el trabajo que necesitan hacer y la disponibilidad de cada miembro del equipo
 
 ---
+
+* Se basa en una filosofía centrada en la mejora continua
+
+* Las tareas se “extraen” de una lista de acciones pendientes en un flujo de trabajo constante.
+
+---
+
+Visualización simple como un tablero con columnas como "POR HACER", "EN PROCESO" y "COMPLETADO"
+
+---
+
+### Funcionamiento Básico de Kanban
+
+* Las tarjetas Kanban representan tareas.
+* Movimiento de tarjetas desde "BACKLOG" a "POR HACER" y luego a "EN PROCESO" y "COMPLETADO".
+* Facilidad de controlar el trabajo y seguir el progreso.
+
+---
+
+### Tablero Kanban
+
+Permite a los equipos visualizar sus flujos de trabajo y la carga de trabajo
+
+---
+
+El trabajo se muestra en forma de tablero organizado por columnas. 
+
+Cada columna representa una etapa del trabajo
+
+![bg fit left](tablero.png)
+
+---
+
+El tablero más básico puede presentar columnas como Trabajo pendiente, En progreso y Terminado.
+
+![bg fit right](kanban.jpg)
+
+---
+
+Las tareas individuales —representadas por tarjetas visuales en el tablero— avanzan a través de las diferentes columnas hasta que estén finalizadas.
+
+---
+
+## Trello
+
+---
+
+### ¿Qué es Trello?
+
+* Permite idear, planificar y gestionar objetivos de manera colaborativa.
+
+* Facilita la celebración de logros de equipos de forma productiva y organizada
+
+---
+
+* Ideal para iniciar nuevos proyectos o mejorar la organización de proyectos en curso.
+
+* Simplifica y estandariza procesos de trabajo de forma intuitiva.
+
+---
+
+### Componentes clave de un tablero
+
+Tablero, lista, tarjeta y menú del tablero
+
+---
+
+### ¿Qué es un tablero en Trello?
+
+* Lugar para hacer seguimiento de información sobre proyectos, equipos o flujos de trabajo.
+* Organización de tareas y detalles, fomentando la colaboración.
+
+---
+
+### ¿Qué es una lista en Trello?
+
+* Contiene tarjetas organizadas por fases de progreso.
+* Utilizada para flujos de trabajo o seguimiento de ideas e información.
+
+---
+
+### ¿Qué es una tarjeta en Trello?
+
+* Elemento más pequeño y detallado del tablero, representa tareas e ideas.
+* Personalizable con información útil y se organiza en listas.
+
+---
+
+# EJEMPLO
+
+https://trello.com/home
+
