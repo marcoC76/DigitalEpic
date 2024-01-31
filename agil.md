@@ -11,7 +11,15 @@ color: #fff
 
 # EduScrum
 
-<!-- paginate: true -->
+---
+
+## Scrum
+
+Marco de trabajo en grupo orientado a la realización de
+tareas en cortos períodos de tiempo por grupos pequeños (equipos de 4 a
+8
+personas,
+aproximadamente).
 
 ---
 
