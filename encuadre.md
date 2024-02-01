@@ -38,15 +38,15 @@ Estructura de la clase
 
 ---
 
-# Evaluacion
+# Evaluación
 
 **Individual**
-* Cuestioanrios previos → 20%
+* Cuestionarios previos → 20%
 * Actividades → 20%
   
   
 **Clan**
-* Bitacora → 20%
+* Bitácora → 20%
 * Proyecto → 40%
 
 ---
@@ -54,7 +54,7 @@ Estructura de la clase
 ## Cuestionarios previos
 
 * Formulario de google, con preguntas exploratorias
-* Dan una idea de los temas que seran tratados
+* Dan una idea de los temas que serán tratados
 * Respuestas parafraseadas o propias
 
 ---
@@ -74,7 +74,7 @@ Estructura de la clase
 
 * Cada periodo se asigna un proyecto y el clan trabaja para completarlo y exponerlo al final del periodo.
 
-* Se haran entregas semanales del avance del proyecto.
+* Se harán entregas semanales del avance del proyecto.
 
 ---
 
@@ -91,12 +91,12 @@ Estructura de la clase
 
 ## Apertura
 * Se realiza desde casa el cuestionario previo
-* El clan se reúne, durante 5 minutos para realizar un reporte sobrevel trabajo realizad y por hacer
+* El clan se reúne, durante 5 minutos, para realizar un reporte sobre el trabajo realizad y por hacer
 * Se actuliza el tablero Kanban
 
 ---
 
-### Reunion de pie
+### Reunión de pie
 
 1. ¿Qué trabajo he aportado al clan desde la última reunión?
                
@@ -117,7 +117,7 @@ Estructura de la clase
 
 ## Cierre
 * Los estudiantes suben los productos en el aula virtual
-* Se llena la bitácora del dia y se actualiza el tablero Kanban
+* Se llena la bitácora del día y se actualiza el tablero Kanban
 * Redactan los apuntes en la bitácora
 * Realizan una retrospectiva
 
@@ -147,14 +147,14 @@ Estructura de la clase
 
 ## Fotógrafo - Capturador de Instantes
 * Tomara fotos de todo lo que se realiza en cada clase
-* Evidencia el trabajo y la organización del clan
+* Evidencia, el trabajo y la organización del clan
 * El clan cambia de fotógrafo cada semana
 
 ---
 
 ## Proveedor - Guardián de la Comunicación
 * Se encarga de avisar de plazos próximos a cumplirse
-* También avisa sobre publicaciones importantes en le aula virtual
+* También avisa sobre publicaciones importantes en el aula virtual
 * Llevará las actividades impresas o descargadas para desarrollarse en clase
 * El clan cambia de proveedor cada semana
 
@@ -171,7 +171,7 @@ Estructura de la clase
 ---
 
 # Reglamento
-1. La entrada al salon solo se permite si el estudiante:
+1. La entrada al salón solo se permite si el estudiante:
    - Lleva su uniforme completo.
    - Llega dentro de los primeros 10 minutos después de comenzada la clase.
    - No porta perforaciones.
@@ -182,7 +182,7 @@ Estructura de la clase
 ## Reglamento
 2. No se consumen alimentos dentro del salon, solo agua.
 3. No hay cambios de clan.
-4. Los clanes son autorregulados, por lo que no se reciben quejas de los            integrantes de los clanes.
+4. Los clanes son autorregulados, por lo que no se reciben quejas de los integrantes de los clanes.
 5. Para salir al baño, no es necesario pedir permiso, siempre que se retiren en  silencio y sin interrumpir la clase.
 
 ---
