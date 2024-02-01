@@ -16,11 +16,11 @@ style: |
 
 ---
 
-# Desarrollo Agil de proyectos
+# Desarrollo ágil de proyectos
 
 ---
 
-# EduScrum
+![w:500px](plantilla-eduscrum.jpg)
 
 ---
 
@@ -30,6 +30,8 @@ Marco de trabajo en grupo orientado a la realización de tareas en cortos perío
 
 ---
 
+![bg fit right:35%](colaborativo.png)
+
 ## ¿Qué es eduScrum?
 
 Un marco de trabajo en el que los estudiantes pueden hacer frente a problemas adaptativos complejos, mientras logran objetivos de aprendizaje y crecimiento personal
@@ -38,11 +40,15 @@ Un marco de trabajo en el que los estudiantes pueden hacer frente a problemas ad
 
 ### Filosofía y Normas
 
+![w:200px](juego.png)
+
 ---
 
 Responsabilidades al adoptar eduScrum, incluyendo trabajar en clanes autoorganizados.
 
 ---
+
+![bg fit left:35%](examen.png)
 
 Calificación a nivel de grupo y compromiso entre los miembros del clan.
 
@@ -62,9 +68,13 @@ Trabajar al mismo nivel, asistencia regular, colaboración, respeto y enfoque en
 
 ---
 
+![bg fit right:35%](sprint.png)
+
 Un Sprint es un marco temporal definido para objetivos de aprendizaje.
 
 ---
+
+![bg fit left:35%](responsable.png)
 
 Responsabilidad del clan de entregar un producto válido y alcanzar objetivos de aprendizaje individuales al final del sprint.
 
@@ -79,6 +89,8 @@ Garantizar la correcta ejecución del proceso, incluyendo facilitar las reunione
 ### Product Backlog
 
 ---
+
+![bg fit left:35%](lista-de-quehaceres.png)
 
 Lista ordenada de tareas que contribuyen a los objetivos de aprendizaje.
 
@@ -95,16 +107,18 @@ Tareas que pueden realizarse de manera independiente, y algunas pueden subdividi
 
 ---
 
-Al finalizar esta reunión el clan de trabajo debe explicar al dueño del producto (profesor) un resumen de las decisiones tomadas y las estrategias adoptadas para abordar el proyecto.
+Al finalizar esta reunión, el clan de trabajo debe explicar al dueño del producto (profesor) un resumen de las decisiones tomadas y las estrategias adoptadas para abordar el proyecto.
 
 ---
 
-### Reunión Diaria (Reunion de pie)
+### Reunión Diaria (Reunión de pie)
 
 * Preguntas que cada miembro responde.
 * Importancia del Scrum Master en recordar a los miembros la reunión
 
 ---
+
+#### Preguntas Reunión diaria
 
 * ¿Qué trabajo he aportado al clan desde la última reunión?
 * ¿Qué trabajo voy a hacer durante esta clase?
@@ -143,7 +157,7 @@ Tanto el clan (colectivo) como cada miembro (individual) deberá responder a 4 p
 
 ---
 
-## Kanban
+![w:800px](Kanban%20(1).jpg)
 
 ---
 
@@ -175,6 +189,8 @@ Visualización simple como un tablero con columnas como "POR HACER", "EN PROCESO
 
 Permite a los equipos visualizar sus flujos de trabajo y la carga de trabajo
 
+![bg fit left:35%](MT-Kanban-Boards-Hero-220211-B-1-1024x864.png)
+
 ---
 
 El trabajo se muestra en forma de tablero organizado por columnas. 
@@ -191,11 +207,13 @@ El tablero más básico puede presentar columnas como Trabajo pendiente, En prog
 
 ---
 
+![bg fit left:35%](publicalo.png)
+
 Las tareas individuales —representadas por tarjetas visuales en el tablero— avanzan a través de las diferentes columnas hasta que estén finalizadas.
 
 ---
 
-## Trello
+![w:500px](Trello-Logo.png)
 
 ---
 
