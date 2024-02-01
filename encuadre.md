@@ -28,13 +28,13 @@ Estructura de la clase
 
 # Temario
 
-* **Unidad 1** - Inmersión Digital: Fase Inicial
+* **Unidad 1** - El Desafío de las Metodologías Ágiles: Fase Inicial
                 
 
-* **Unidad 2** - Escudo Virtual: Fase de Protección
+* **Unidad 2** - Travesía por el Mundo del Diseño Digital: Fase de Intermedia
                 
 
-* **Unidad 3** - El Laberinto del Código: Fase Épica
+* **Unidad 3** - Explorando las Profundidades de la Digitalización: Fase Épica
 
 ---
 
