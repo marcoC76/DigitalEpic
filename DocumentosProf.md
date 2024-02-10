@@ -27,16 +27,26 @@ footer: Documentos profesionales
 
 ## Muerte por powerpoint
 
+![w:50%](dead-by-powerpoint.jpg)
+
 ---
 
 ## Algunas preguntas antes de empezar 
 
 ---
+
 ### ¿Quién es la audiencia?
 
 ---
 
+![bg auto](audiencia1.jpg)
+![bg](audiencia2.jpg)
+
+---
+
 ### ¿Cuánto tiempo?
+
+![bg left](tiempo.jpg)
 
 ---
 
