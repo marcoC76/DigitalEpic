@@ -45,7 +45,7 @@ Definición y relevancia en comunicación digital. Analogía: página libro.
 
 ---
 
-## Partes de una página web sin código
+## Partes de una página web
 
 ---
 
@@ -177,83 +177,11 @@ Acceso configuración panel edición. Personalización aspectos navegación, col
 
 ---
 
-### SEO en Google Sites
-
----
-
-Importancia SEO visibilidad buscadores. Etiquetas HTML optimización imágenes SEO.
-
----
-
 ### FAQs o Preguntas Frecuentes
 
 ---
 
 Respuestas dudas comunes creación sitios web Google Sites.
-
----
-
-### Consejos Adicionales para Mejorar el SEO
-
----
-
-Uso Google My Business mejorar visibilidad local. Creación perfiles redes sociales promoción contenido.
-
----
-
-### Conclusiones
-
----
-
-Recapitulación pasos creación sitio web Google Sites. Enfatizar importancia usabilidad contenido calidad.
-
----
-
-### Práctica Guiada
-
----
-
-Ejercicio práctico alumnos creen propio sitio web utilizando Google Sites. Supervisión asistencia proceso.
-
----
-
-### Demostración en Vivo
-
----
-
-Ejemplo vivo creación sitio web básico utilizando Google Sites. Interacción alumnos resolver dudas tiempo real.
-
----
-
-### Evaluación
-
----
-
-Evaluación sitio web creado alumnos. Retroalimentación sugerencias mejora.
-
----
-
-### Recursos de Apoyo
-
----
-
-Enlaces tutoriales adicionales. Herramientas recursos recomendados diseño web SEO.
-
----
-
-### Próximos Pasos
-
----
-
-Sugerencias seguir aprendiendo perfeccionando habilidades diseño web. Invitación explorar plataformas herramientas relacionadas.
-
----
-
-### Preguntas y Respuestas Finales
-
----
-
-Espacio aclarar dudas finales cerrar sesión aprendizaje. Ofrecer apoyo adicional necesario.
 
 ---
 
