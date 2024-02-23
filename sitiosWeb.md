@@ -13,7 +13,7 @@ style: |
     }
 
 _color: white
-backgroundImage: url("blob-scene-haikei.svg")
+backgroundImage: url("layered-steps-haikei.svg")
 
 backgroundColor: #27060F
 
@@ -25,15 +25,7 @@ footer: Documentos profesionales
 
 
 
-# Creación de Sitios Web con Google Sites: Conociendo los Elementos Esenciales
-
----
-
-## Introducción
-
----
-
-Conocimiento básico en diseño web. Google Sites: herramienta accesible.
+# Sitios Web
 
 ---
 
@@ -41,7 +33,7 @@ Conocimiento básico en diseño web. Google Sites: herramienta accesible.
 
 ---
 
-Definición y relevancia en comunicación digital. Analogía: página libro.
+Documento online accesible por internet que contiene información y recursos
 
 ---
 
@@ -49,11 +41,19 @@ Definición y relevancia en comunicación digital. Analogía: página libro.
 
 ---
 
+![w:100%](partes-estructura-header-bot-footer.jpg)
+
+---
+
 ### Encabezado (Header)
 
 ---
 
-Logo, menú navegación, llamadas acción.
+Logo, menú navegación, llamadas acción
+
+---
+
+![w:100%](header-block-creador-de-sitios-web.jpg)
 
 ---
 
@@ -61,7 +61,11 @@ Logo, menú navegación, llamadas acción.
 
 ---
 
-Facilita exploración sitio.
+Facilita exploración sitio
+
+---
+
+![w:100%](sddefault.jpg)
 
 ---
 
@@ -69,7 +73,11 @@ Facilita exploración sitio.
 
 ---
 
-Atajos visitantes realicen acciones específicas.
+Atajos visitantes realicen acciones específicas
+
+---
+
+![w:100%](ejemplo-call-to-action-nike.png)
 
 ---
 
@@ -77,7 +85,11 @@ Atajos visitantes realicen acciones específicas.
 
 ---
 
-Zona atractiva debajo encabezado.
+Zona atractiva debajo encabezado
+
+---
+
+![w:100%](Screenshot_1.jpg)
 
 ---
 
@@ -85,7 +97,11 @@ Zona atractiva debajo encabezado.
 
 ---
 
-Facilita búsqueda contenido.
+Facilita búsqueda contenido
+
+---
+
+![w:100%](buscador-productos-amazon.jpg)
 
 ---
 
@@ -93,15 +109,11 @@ Facilita búsqueda contenido.
 
 ---
 
-Recopilar información visitantes.
+Recopilar información visitantes
 
 ---
 
-### Video
-
----
-
-Aumenta retención engagement.
+![w:100%](para-que-sirve-un-formulario-web.png)
 
 ---
 
@@ -109,7 +121,11 @@ Aumenta retención engagement.
 
 ---
 
-Refuerza identidad marca.
+Refuerza identidad marca
+
+---
+
+![w:100%](favicon.jpg)
 
 ---
 
@@ -117,7 +133,11 @@ Refuerza identidad marca.
 
 ---
 
-Facilita comunicación empresa.
+Facilita comunicación empresa o dueño
+
+---
+
+![w:100%](paginacontacto9bd.webp)
 
 ---
 
@@ -125,11 +145,12 @@ Facilita comunicación empresa.
 
 ---
 
-Contiene enlaces útiles términos legales.
+Contiene enlaces útiles y términos legales
 
 ---
 
-### Creación de un Sitio Web con Google Sites
+![w:100%](website-footer-creador-de-sitios-web.png)
+<!-- ### Creación con Google Sites
 
 ---
 
@@ -184,4 +205,4 @@ Acceso configuración panel edición. Personalización aspectos navegación, col
 Respuestas dudas comunes creación sitios web Google Sites.
 
 ---
-
+ -->
