@@ -18,7 +18,7 @@ backgroundImage: url("layered-steps-haikei.svg")
 backgroundColor: #27060F
 
 color: #fff
-footer: Documentos profesionales
+footer: Sitios Web
 
 
 ---
