@@ -247,62 +247,120 @@ footer: HTML
 
 ---
 
+### Contenido del `<head>`: 
+
+---
+
+#### `<meta charset="utf-8">`: Establece el juego de caracteres
+
+---
+
+#### `<title>`: Define el título de la página
+
+---
+
+### Elemento `<body>`:
+
+---
+
+#### Contiene todo el contenido visible para los usuarios
+
+
+
+---
+
+### Función del `<body>`
+
+---
+
+#### Muestra texto, imágenes, multimedia, etc
+
+---
+
+### Elemento `<img>`
+
+
+
+---
+
+#### Inserta imágenes en la página 
+
+
+
+---
+
+#### Atributos principales:
+
+* src: Ruta de la imagen
+
+* alt: Texto descriptivo para accesibilidad
+
+
+
+---
+
+#### Usos del atributo alt:
+
+* Descripción para usuarios con discapacidad visual
+
+* Alternativa en caso de error de carga
+
+
+
+---
+
+#### Importancia del texto alt:
+
+* Debe describir la imagen de manera precisa
+
+* Mejorar la accesibilidad y comprensión de la imagen
+
+
+
+---
+
+## Elementos principales
+
+
+
+---
+
+### Encabezados (`<h1>` - `<h6>`).
+
+
+
+---
+
+### Párrafos (`<p>`).
+
+
+
+---
+
+### Listas (ordenadas `<ol>` y desordenadas `<ul>`).
+
+
+
+---
+
+###  Vínculos (`<a>`).
+
+
+
+---
+
+## Pasos para crear un enlace:
+
+1. Seleccionar texto.
+
+2. Encerrarlo en `<a>`.
+
+3. Agregar atributo href con la dirección web.
+
+
+
+---
 <!-- 
-Contenido del <head>:
-
-<meta charset="utf-8">: Establece el juego de caracteres.
-<title>: Define el título de la página.
-Elemento <body>:
-
-Contiene todo el contenido visible para los usuarios.
-
-Función del <body>:
-
-Muestra texto, imágenes, multimedia, etc.
-
-Elemento <img>:
-
-Inserta imágenes en la página.
-
-Atributos principales:
-
-src: Ruta de la imagen.
-
-alt: Texto descriptivo para accesibilidad.
-
-Usos del atributo alt:
-
-Descripción para usuarios con discapacidad visual.
-Alternativa en caso de error de carga.
-Importancia del texto alt:
-
-Debe describir la imagen de manera precisa.
-
-Mejorar la accesibilidad y comprensión de la imagen.
-
-Ejemplo:
-
-Cambiar "Mi imagen de prueba" por descripción detallada.
-
-Elementos principales:
-
-Encabezados (<h1> - <h6>).
-
-Párrafos (<p>).
-
-Listas (ordenadas <ol> y desordenadas <ul>).
-
-Vínculos (<a>).
-
-Ejemplo:
-
-Crear un título (<h1>) para la página.
-
-Agregar párrafos (<p>) debajo de la imagen.
-
-Incluir una lista ordenada o desordenada.
-
-Enlazar texto utilizando el elemento <a>.
 
 Nota:
 
@@ -312,13 +370,6 @@ Enlaces (<a>):
 
 Conectan diferentes partes de la web.
 
-Pasos para crear un enlace:
-
-Seleccionar texto.
-
-Encerrarlo en <a>.
-
-Agregar atributo href con la dirección web.
 
 Nota:
 
