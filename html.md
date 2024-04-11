@@ -146,37 +146,108 @@ footer: HTML
 
 ![w:1000](grumpy-cat-attribute-small.png)
 
+---
+
+### Anidamiento de elementos
+
+
+---
+
+#### Colocar elementos dentro de otros 
+
+
+---
+
+#### Ejemplo: enfatizar una palabra con `<strong>`
+
+
+---
+
+### Correcto anidamiento 
+
+
+
+---
+
+#### Asegurar apertura y cierre ordenados 
+
+
+
+---
+
+### Incorrecto
+
+
+
+---
+
+#### Cierre desordenado de etiquetas
+
+
+
+---
+
+### Elementos vacíos 
+
+
+
+---
+
+#### Algunos elementos carecen de contenido
+
+
+
+---
+
+#### Ejemplo: elemento `<img>` sin etiqueta de cierre 
+
+
+
+---
+
+### Componentes principales 
+
+
+
+---
+
+#### `<!DOCTYPE html>`: Tipo de documento 
+
+
+
+---
+
+#### `<html>`: Elemento raíz  
+
+
+
+---
+
+### Elementos secundarios 
+
+
+
+---
+
+#### `<head>`: Contiene metadatos
+
+
+
+---
+
+#### `<body>`: Contiene contenido visible 
+
+
+
+---
+
+#### Elemento `<head>`: Contenedor de metadatos y otros elementos no visibles
+
+
+
+---
+
 <!-- 
-Anidamiento de elementos:
-
-Colocar elementos dentro de otros.
-
-Ejemplo: enfatizar una palabra con <strong>.
-
-Correcto anidamiento:
-
-Asegurar apertura y cierre ordenados.
-
-Incorrecto:
-
-Cierre desordenado de etiquetas.
-Elementos vacíos:
-
-Algunos elementos carecen de contenido.
-Ejemplo: elemento <img> sin etiqueta de cierre.
-
-Componentes principales:
-
-<!DOCTYPE html>: Tipo de documento.
-<html>: Elemento raíz.
-Elementos secundarios:
-
-<head>: Contiene metadatos.
-<body>: Contiene contenido visible.
-Elemento <head>:
-
-Contenedor de metadatos y otros elementos no visibles.
-
 Contenido del <head>:
 
 <meta charset="utf-8">: Establece el juego de caracteres.
