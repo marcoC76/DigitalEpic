@@ -54,6 +54,8 @@ footer: HTML
 
 ### Conecta páginas web entre sí 
 
+![bg left w:90%](vinculo.png)
+
 ---
 
 ### Es fundamental en la Web 
@@ -65,6 +67,8 @@ footer: HTML
 ---
 
 ### Etiquetan texto, imágenes y otros contenidos
+
+![bg right w:90%](anatomy-of-an-html-tag.png)
 
 ---
 
@@ -78,6 +82,8 @@ footer: HTML
 
 #### Nombre rodeado de "<" y ">" 
 
+![bg left w:90%](etiquetashtmlejemploraizdeldocumento.webp)
+
 ---
 
 #### No distinguen entre mayúsculas y minúsculas 
@@ -86,13 +92,7 @@ footer: HTML
 
 ### Permiten modificar visualización y comportamiento
 
----
-
-### Ejemplo
-
----
-
-#### Encerrar texto en etiqueta de párrafo (`<p>`)
+![bg right w:90%](html-6.webp)
 
 ---
 
@@ -361,19 +361,6 @@ footer: HTML
 
 ---
 <!-- 
-
-Nota:
-
-Evitar abusar de elementos de encabezado para diseño.
-Usar adecuadamente elementos de lista para contenido organizado.
-Enlaces (<a>):
-
-Conectan diferentes partes de la web.
-
-
-Nota:
-
-Asegurarse de incluir correctamente el protocolo en href (https:// o http://).
 
 Introducción a Materialize.css:
 
