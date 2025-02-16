@@ -23,196 +23,6 @@ footer: Documentos profesionales
 
 ---
 
-
-
-# Presentaciones efectivas
-
----
-
-![bg](dead-by-powerpoint.png)
-
----
-
-## Muerte por powerpoint
-
----
-
-## Algunas preguntas antes de empezar 
-
----
-
-### ¿Quién es la audiencia?
-
----
-
-![bg auto](audiencia1.jpg)
-![bg](audiencia2.jpg)
-
----
-
-### ¿Cuánto tiempo?
-
-![bg left](tiempo.jpg)
-
----
-
-### ¿Qué mensaje?
-![bg right](anunciar.png)
-
----
-
-### ¿Cuál es el objetivo?
-![bg left](target.jpg)
-
----
-
-### ¿Dónde es la presentación?
-![bg right](Ubicación.webp)
-
----
-
-### ¿Qué medios tengo a mi alcance?
-![bg left](medios.jpg)
-
----
-
-## Estructura
-
----
-
-### Elemento o ideas que puedo meter a mi presentación
-
----
-
-> Presentar es seleccionar y compartir ideas
-
-![bg left](ideas.png)
-
----
-
-### Definir el orden de los elementos 
-
-![bg right](orden.jpg)
-
----
-
-### Planear en papel, lápiz y a mano
-
-![bg left](planear-negocio.png.webp)
-
----
-
-## Diseño 
-
----
-
-## ¡Ya haremos las diapositivas!
-![](tenor.gif)
-
----
-
-### El diseño también comunica
-![bg right](diseño.webp)
-
----
-
-## El zen en presentar
-
----
-
-### La simplicidad
-![bg left w:100%](simple.jpg)
-
----
-
-### La claridad
-![bg right w:100%](claridad.jpg)
-
----
-
-### La armonía
-![bg left w:100%](armonico.webp)
-
----
-
-## El diseño de las diapositivas
-
----
-
-### El tema y la tipografía
-![bg right w:100%](tipografia.jpg)
-
----
-![bg w:50%](legibilidad.png)
-
----
-
-### Los colores y los contrastes
-![bg left w:100%](colores.png)
-
----
-
-### La regla del 10/20/30
-
----
-
-![bg w:50%](10.webp)
-
-
-
----
-![bg w:50%](20.webp)
-
-
-
----
-![bg w:50%](30.webp)
-
-
-
----
-
-## Errores
-
----
-
-### PowerPoint como teleprompter 
-
-![bg right w:100%](telepronter.png)
-
----
-
-### El abuso de los bullet point's
-![bg left w:100%](bullet.png)
-
----
-![bg w:50%](bullet2.png)
-
----
-
-### Una mala elección de colores
-![bg right w:100%](contraste.webp)
-
----
-
-### Faltas de ortografía
-
-![bg left w:100%](ortografia.jpg)
-
----
-
-![ bg w:50%](ortografia2.jpg)
-
----
-
-![ bg w:50%](ortografia3.jpg)
-
----
-
-### Demasiada animación
-
----
-
 <!-- PORTADA -->
 # Diseño de Documentos Profecionales  
 
@@ -232,7 +42,7 @@ Mencionar que usaremos ejemplos del Metro CDMX para hacerlo más tangible.
 La portada como carta  
 de presentación visual
 
-
+![bg right:40%](https://images.unsplash.com/photo-1582719478250-c89cae4dc85b)
 
 <!-- NOTAS:
 Mostrar ejemplo de portada básica vs. profesional usando plantilla de la SEP
@@ -242,15 +52,16 @@ Recomendar incluir código de colores de la escuela
 
 ---
 
-![bg 40%](ejemplo-portada-fea.jpg)
+<!-- ESTRUCTURA 2 -->
+### El mapa del tesoro  
+Cómo crear un sumario útil  
+incluso en trabajos cortos
 
----
-
-![bg 40%](ejemplo-portada-academica.jpg)
-
----
-
-![bg 40%](ejemplo-portada-creativa.webp)
+<!-- NOTAS:
+Demostrar con ejemplo real: trabajo sobre contaminación en Iztapalapa
+Enseñar la regla de 3: máximo 3 niveles de secciones
+Importancia de la numeración automática para actualizaciones
+-->
 
 ---
 
@@ -301,17 +112,13 @@ Títulos firmes
 Subtítulos claros  
 Texto amigable
 
-
+![bg left:40%](https://images.unsplash.com/photo-1531975474574-5a1a7c93d8b1)
 
 <!-- NOTAS:
 Regla práctica: el título debe leerse desde 2 metros de distancia
 Mostrar sistema de escalado: 36pt - 28pt - 24pt
 Ejemplo con encabezados de periódicos locales
 -->
-
----
-
-![bg 100%](Que-es-la-jerarquia-tipografica.jpg)
 
 ---
 
