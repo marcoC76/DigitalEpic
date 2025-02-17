@@ -270,7 +270,7 @@ Error común a evitar: ser demasiado general
 
 <!-- DISEÑO 1 -->
 # El poder del color  
-en documentos académicos
+en documentos Profecionales
 
 <!-- NOTAS:
 Hacer votación rápida: ¿Qué color asociamos a profesionalismo?
@@ -311,7 +311,7 @@ Ejemplo con encabezados de periódicos locales
 
 ---
 
-![bg 100%](Que-es-la-jerarquia-tipografica.jpg)
+![bg 50%](Que-es-la-jerarquia-tipografica.png)
 
 ---
 
@@ -330,7 +330,7 @@ Importancia para estudiantes con problemas visuales
 
 <!-- CONTRASTE 2 -->
 ### Combinaciones seguras  
-para documentos escolares
+para documentos profecionales
 
 Texto oscuro  
 sobre fondo claro  
@@ -364,7 +364,7 @@ Estilos predefinidos
 Navegación rápida  
 Tablas automáticas
 
-![bg right:40%](https://images.unsplash.com/photo-1585076641399-8c1bfb1968c5)
+![bg left:50%](word.png)
 
 <!-- NOTAS:
 Demostración en vivo de cómo aplicar estilos
@@ -380,7 +380,7 @@ Ventaja: compatibilidad con todos los equipos escolares
 Colaboración en tiempo real  
 desde cualquier dispositivo
 
-![bg left:40%](https://images.unsplash.com/photo-1558494949-ef010cbdcc31)
+![bg left:40%](google-docs.jpg)
 
 <!-- NOTAS:
 - Ideal para trabajos grupales: mostrar historial de revisiones
@@ -404,7 +404,7 @@ Con Canva para académicos
 ---
 
 <!-- HERRAMIENTAS 5 -->
-![bg right:30%](https://images.unsplash.com/photo-1633356122544-f134324a6cee)
+![bg right:30%](canva.webp)
 ### Canva en acción  
 3 usos académicos:  
 1. Portadas dinámicas  
@@ -424,7 +424,7 @@ Con Canva para académicos
 Potencia gratis  
 y abierta
 
-![bg vertical left:30%](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b)
+![bg left:40%](libreoff.png)
 
 <!-- NOTAS:
 - Comparativa con Word: ventajas y desventajas
